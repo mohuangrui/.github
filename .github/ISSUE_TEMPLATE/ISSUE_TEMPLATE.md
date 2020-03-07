@@ -31,13 +31,16 @@ assignees: ''
 问题描述：
 
 
+
 ## 日志文件 / .log file
 <!-- .log 文件可提供：版本信息, 宏包信息, 出错信息-->
 将编译生成的 `.log` 文件拖入下行空白处：
 
 
+
 ## 问题截图 / Screenshots
 将出现的问题或需要实现的效果的 `截图照片` 拖入下行空白处：
+
 
 
 ## 最小工作示例(MWE) / Minimal Working Example 

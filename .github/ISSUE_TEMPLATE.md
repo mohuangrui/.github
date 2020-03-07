@@ -11,9 +11,9 @@ assignees: ''
 <!-- 勾选方法：把 [ ] 改为 [x] -->
 
 - [ ] 已阅读 [提问流程](https://github.com/mohuangrui/ucasthesis/wiki/常见问题#如何有效地问问题)
-- [ ] 确认问题为关于 ucasthesis 编译和设计的问题而非 LaTeX 的一般知识性问题
+- [ ] 确认问题为关于 ucasthesis 编译和设计的问题，而非 LaTeX 的一般知识性问题
 - [ ] 已仔细阅读 [LaTeX 知识小站](https://github.com/mohuangrui/ucasthesis/wiki)
-- [ ] 已查阅搜索 [issues](https://github.com/mohuangrui/ucasthesis/issues?q=) 的 [已关闭问题 (closed)](https://github.com/mohuangrui/ucasthesis/issues?q=)
+- [ ] 已查阅搜索 [issues](https://github.com/mohuangrui/ucasthesis/issues?q=) 的 [已关闭问题 `closed issues`](https://github.com/mohuangrui/ucasthesis/issues?q=)
 
 ## 编译环境 / Compilation Environment
 

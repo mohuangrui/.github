@@ -17,12 +17,12 @@ assignees: ''
 
 ## 编译环境 / Compilation Environment
 
-- 操作系统 / Operating System
+- `操作系统 / Operating System`
   - [ ] Windows 7/8/10
   - [ ] macOS
   - [ ] Linux
 
-- TeX 发行版 / Tex Distribution
+- `TeX 发行版 / Tex Distribution`
   - [ ] TeX Live <!-- 加上年份 -->
   - [ ] MiKTeX <!-- 加上版本号 -->
   - [ ] CTeX
